@@ -22,8 +22,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/SRINIDHISENTHILNATHAN/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/121373170/e3bd8f72-bd46-4871-9c24-e7317e0641ec)
+
+
+### Name:SRINIDHI SENTHIL
+### Register Number:212222230148
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
